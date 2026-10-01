@@ -1,0 +1,7 @@
+LAMP
+Copyright 2026 The LAMP authors
+
+This product includes software from GRACEFUL (https://github.com/DataManagementLab/graceful),
+licensed under the Apache License 2.0, including its estimator (models/), query execution and
+benchmark tools (cross_db_benchmark/), DeepDB and WanderJoin cardinality estimation (deepdb/, card_est/),
+and UDF graph construction (udf_graph/).
